@@ -1,0 +1,14 @@
+Package: hrvFDA
+Title: Preprocessing Heart Rate Data for Functional Data Analysis
+Version: 0.0.0.9000
+Authors@R: person("rj,Cook, role = c("aut", "cre"))
+Description: Tools for preprocessing and analyzing wearable heart rate data 
+    using functional data analysis. Includes functions for assigning subject 
+    IDs, validating datasets, and creating normalized time grids for irregular observations..
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+URL: https://github.com/rayjcook/Wearable-HRV-FDA-cleaning-functions
+BugReports: https://github.com/rayjcook/Wearable-HRV-FDA-cleaning-functions/issues
